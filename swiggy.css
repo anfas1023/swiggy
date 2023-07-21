@@ -1,0 +1,230 @@
+.header{
+ height: 78vh;
+ width: 100%;
+
+ display: flex;
+
+}
+body{
+margin: 0px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.swiggy-img{
+   
+    width: 214px;
+    margin-top: 30px;
+}
+.left{
+    width: 50%;
+}
+.right{
+    width: 50%;
+}
+.right-image{
+    width: 100%;
+    height: 78vh;
+
+
+}
+
+.login{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: black;
+  
+}
+.signup{
+    margin-left: 25px;
+   padding-left: 25px;
+   padding-right: 25px;
+   padding-top: 8px;
+   padding-bottom: 8px;
+   background-color: black;
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   font-size: 17px;
+}
+.login:hover{
+    color: orange;
+}
+.same{
+    font-weight: 400;
+   font-weight: bold;
+   font-size: 40px;
+}
+.same1{
+    font-weight: 400;
+    font-size: 25px;
+    width: 80%;
+
+}
+.content{
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.location-btn{
+    padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+ padding-right: 280px;
+ font-size: large;
+}
+.location-findme{
+    padding-top: 20px;
+}
+.findme{
+   
+    border: none;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    padding-left: 19px;
+    padding-right: 19px;
+    background-color: rgb(235, 152, 0);
+    color: white;
+    font-weight: bold;
+}
+.city{
+    margin-top: 20px;
+  
+}
+.cites{
+margin-right: 10px;
+    text-decoration: none;
+    color: black;
+}
+.citess{
+    color:rgb(108, 108, 108);
+    margin-right: 10px;
+    text-decoration: none;
+}
+body{
+font-family: Arial, Helvetica, sans-serif;
+}
+.feature{
+    height: 55vh;
+    width: 100%;
+    background-color: rgb(37, 1, 1);
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.swiggyimage{
+    /* height: 200px; */
+    width: 115px;
+}
+.list-content{
+    color: white;
+
+}
+.list-head{
+    color: white;
+}
+.para2{
+    width: 290px;
+}
+.feature{
+    /* display: flex; */
+    /* justify-content: space-around; */
+    
+}
+.display{
+    width: 100vw;
+    height: 100vh;
+    background-color:orangered;
+
+}
+.image{
+    display: flex;
+    flex-direction: column;
+    
+    /* justify-content:; */
+    /* margin-left: 120px; */
+}
+.image1{
+    display: flex;
+    justify-content: center;
+}
+.para1{
+    display: flex;
+    justify-content: center;
+}
+.list-content{
+margin-left: 30px;
+}
+.swiggyimage1{
+    margin-bottom: 12px;
+    width: 115px;
+    margin-top: 20px;
+}
+.display{
+    width: 100vw;
+    height: 50%;
+    background-color:white;
+    display: flex;
+    justify-content: space-between;
+    overflow: scroll;
+
+}
+.playstore{
+    width: 180px;
+}
+.leftsection{
+    width: 50%;
+    padding-left: 30%;
+}
+.rightsection{
+    width:50%;
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    margin-top: 120px;
+    width: 350px;
+   
+    margin-left: 110px;
+    
+}
+.restaurants{
+    font-weight: bold;
+    font-size: 40px;
+
+}
+.order{
+    padding-top: 15px;
+    color: grey;
+}
+.playstore{
+    padding-top: 20px;
+}
+.phone1{
+  height: 489px;
+    width: 370px;
+    margin-left: 0%;
+   
+}
+.phone2{
+    height: 489px;
+      width: 384px;
+}
+.food1{
+  width:100px;
+  height:60px;
+  margin-right: 10px;
+
+}
+.food2{
+    margin-left: 287px;
+    margin-bottom: 50px; 
+    
+    
+
+}
